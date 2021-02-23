@@ -40,11 +40,11 @@ if(isset($_GET['logout'])){
     
     <div class="sidebar">
         <ul>
-            <a href="http://localhost:4000/www/add.php"><li> Add Data </li> </a>
-            <a href="http://localhost:4000/www/delete.php"><li> Delete Data</li> </a>
-            <a href="http://localhost:4000/www/updatedata.php"><li> Update Data </li> </a>
-            <a href="http://localhost:4000/www/search.php"><li> Search Data </li> </a>
-            <a href="http://localhost:4000/www/logout.php"><li> Logout </li> </a>
+            <a href="add.php"><li> Add Data </li> </a>
+            <a href="delete.php"><li> Delete Data</li> </a>
+            <a href="updatedata.php"><li> Update Data </li> </a>
+            <a href="search.php"><li> Search Data </li> </a>
+            <a href="logout.php"><li> Logout </li> </a>
             
         </ul>
     </div>

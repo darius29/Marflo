@@ -170,12 +170,12 @@ function checkSlots($mysqli, $date){
             <h1> Cabinet medical Marflo <i class="fas fa-calendar-check"></i></h1>
             
             <div class="navbar">
-                <a  href="http://localhost:4000/www/index.php"> Marflo </a>
-                <a class='active' href="http://localhost:4000/www/programari.php"> Programari </a>
-                <a href="http://localhost:4000/www/servici.php"> Servicii</a>
-                <a href="http://localhost:4000/www/tarife.php"> Tarife </a>
-                <a href="http://localhost:4000/www/echipa.php"> Echipa </a>
-                <a href="http://localhost:4000/www/contact.php"> Contact</a>
+                <a  href="index.php"> Marflo </a>
+                <a class='active' href="programari.php"> Programari </a>
+                <a href="servici.php"> Servicii</a>
+                <a href="tarife.php"> Tarife </a>
+                <a href="echipa.php"> Echipa </a>
+                <a href="contact.php"> Contact</a>
             </div>
         </div>
 

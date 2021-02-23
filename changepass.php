@@ -16,10 +16,10 @@ require('functions.php');
     <div class="dropdown">
         <button onclick="myFunction()" class="dropbtn">Contul meu</button>
         <div id="myDropdown" class="dropdown-content">
-            <a href="http://localhost:4000/www/profil.php">Profile</a>
-            <a href="http://localhost:4000/www/update.php">Update Profile</a>
-            <a href="http://localhost:4000/www/changepass.php">Change password</a>
-            <a href="http://localhost:4000/www/logout.php">Logout</a>
+            <a href="profil.php">Profile</a>
+            <a href="update.php">Update Profile</a>
+            <a href="changepass.php">Change password</a>
+            <a href="logout.php">Logout</a>
         </div>
     </div>
 
@@ -27,12 +27,12 @@ require('functions.php');
         <h1> Cabinet medical Marflo
         </h1>
         <div class="navbar">
-            <a href="http://localhost:4000/www/index.php"> Marflo </a>
-            <a href="http://localhost:4000/www/programari.php"> Programari </a>
-            <a href="http://localhost:4000/www/servici.php"> Servicii</a>
-            <a href="http://localhost:4000/www/tarife.php"> Tarife </a>
-            <a href="http://localhost:4000/www/echipa.php"> Echipa </a>
-            <a href="http://localhost:4000/www/contact.php"> Contact</a>
+            <a href="index.php"> Marflo </a>
+            <a href="programari.php"> Programari </a>
+            <a href="servici.php"> Servicii</a>
+            <a href="tarife.php"> Tarife </a>
+            <a href="echipa.php"> Echipa </a>
+            <a href="contact.php"> Contact</a>
         </div>
     </div>
 

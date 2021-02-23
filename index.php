@@ -19,8 +19,8 @@
         <div class="dropdown">
             <button onclick="myFunction()" class="dropbtn">Contul meu</button>
             <div id="myDropdown" class="dropdown-content">
-                <a href="http://localhost:4000/www/login.php">Log in</a>
-                <a href="http://localhost:4000/www/register.php">Register</a>
+                <a href="login.php">Log in</a>
+                <a href="register.php">Register</a>
             </div>
         </div>
     
@@ -28,12 +28,12 @@
         <h1> <i class="fas fa-clinic-medical"></i>Cabinet medical Marflo</h1>
         
         <div class="navbar">
-            <a class='active' href="http://localhost:4000/www/index.php"> Marflo </a>
-            <a href="http://localhost:4000/www/programari.php"> Programari </a>
-            <a href="http://localhost:4000/www/servici.php"> Servicii</a>
-            <a href="http://localhost:4000/www/tarife.php"> Tarife </a>
-            <a href="http://localhost:4000/www/echipa.php"> Echipa </a>
-            <a href="http://localhost:4000/www/contact.php"> Contact</a>
+            <a class='active' href="index.php"> Marflo </a>
+            <a href="programari.php"> Programari </a>
+            <a href="servici.php"> Servicii</a>
+            <a href="tarife.php"> Tarife </a>
+            <a href="echipa.php"> Echipa </a>
+            <a href="contact.php"> Contact</a>
         </div>
     </div>
 
